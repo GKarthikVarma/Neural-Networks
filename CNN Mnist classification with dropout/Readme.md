@@ -1,6 +1,6 @@
 # Convolutional Neural-Network for MNIST #
 ---------------------------------------
-An implementation of convolutional neural-network (CNN) for MNIST with various techniques such as data augmentation, dropout, batchnormalization, etc.
+An implementation of convolutional neural-network (CNN) for MNIST.
 
 Network architecture
 CNN with 4 layers has following architecture.
